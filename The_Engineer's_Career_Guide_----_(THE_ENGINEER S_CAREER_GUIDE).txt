@@ -1,0 +1,1218 @@
+CONTENTS
+Preface
+Acknowledgments
+About the Author
+
+xix
+xxiii
+xxv
+
+PART 1 SUCCESSFUL CAREER PLANNING
+1 SUCCESSFUL CAREERS START WITH YOU
+The Best Strategy for Career Advancement
+Developing a Strategic Career Plan
+References
+
+Copyright © 2010. John Wiley & Sons, Incorporated. All rights reserved.
+
+2 DEVELOPING A SUCCESSFUL CAREER PLAN
+Purpose of Career Planning
+Danger Signs Indicating Career Planning Is Necessary
+Career Assessment and Planning Decision Tree
+The Process of Generating a Career Plan
+Career Workbook—Helping You Plan Your Career
+Technical Versus Management Career Plan
+Typical Goals During an Engineering Career
+Examples of Great Career Actions
+Examples of Great Personal/Social Actions
+Keeping Balance Between Work and Personal Life
+Capitalize on Your Strengths and Minimize Weaknesses
+Translating Goals into Actions
+Organizing Career Actions into a Calendar of Events
+How Technologies, Products, and Industries Impact
+Long-Range Career Planning
+Stress Relief Planning
+Dealing with Changing Supervisors—Reboot Time
+Summary
+Assignments and Discussion Topics
+Reference
+
+3
+6
+7
+10
+11
+11
+13
+14
+14
+16
+17
+23
+25
+25
+26
+27
+29
+32
+33
+36
+38
+39
+40
+40
+v
+
+Hoschette, J. A. (2010). The engineer's career guide. John Wiley & Sons, Incorporated.
+Created from cuhk-ebooks on 2025-01-24 05:01:11.
+
+vi
+
+CONT ENT S
+
+3 CAREER STRATEGIES: WHAT WORKS
+AND WHAT DOESN’T?
+Devoted To One Department for Your Career Strategy
+Move Departments, But Stay in the Same Company
+Picking Mainstream Jobs and Departments
+Leveraging the Research Group
+Following Hot Companies and Products
+Up and Down the Supply Chain Career Moves
+Selecting the Best Career Move for You
+Company High Talent and Leadership Development Programs
+Succession Planning—Your Key to Moving Up
+Summary
+Assignments and Discussion Topics
+
+41
+41
+44
+45
+47
+48
+51
+53
+55
+56
+56
+57
+
+4 SUCCESSFULLY MAKING A JOB
+OR CAREER CHANGE
+Key Factors in Making a Job or Career Change
+(Company, Technology, Industry)
+Planning for Success When Changing Your Career
+Summary
+Assignments and Discussion Topics
+
+59
+59
+63
+68
+68
+
+Copyright © 2010. John Wiley & Sons, Incorporated. All rights reserved.
+
+5 STRATEGIES FOR GETTING YOUR
+NEXT PROMOTION
+Getting a Promotion in Your Present Department
+Changing Departments for a Promotion Strategy
+Leaving the Company for a Promotion Strategy
+Going to the Competitor for a Promotion
+Summary
+Assignments and Discussion Topics
+
+69
+69
+70
+71
+72
+72
+73
+
+6 CAREER DISCUSSION GUIDE FOR EMPLOYEES,
+MANAGERS, AND MENTORS
+Objectives of Career Discussions
+Career Discussion Guide for Engineers
+Career Discussion Guide for Managers and Mentors
+Simple Step-by-Step Plan for Conducting Career Discussions
+Summary
+Assignments and Discussion Topics
+
+Hoschette, J. A. (2010). The engineer's career guide. John Wiley & Sons, Incorporated.
+Created from cuhk-ebooks on 2025-01-24 05:01:11.
+
+75
+76
+77
+79
+81
+85
+85
+
+CONTENTS
+
+7 THE MENTORING PROCESS AND VALUE TO YOUR CAREER
+Understanding the Beneﬁts of Mentors
+Finding Good Mentors You Can Rely Upon
+How To Utilize a Mentor
+How To Be a Great Mentor
+Great Questions for Mentors To Ask
+Mentor Roles and Responsibilities
+Protégé’s Roles and Responsibilities
+The Phases of the Mentoring Process
+You Can Mentor; It’s Easy!
+A Word of Caution About Finding Mentors for Women
+A Final Note on Mentoring
+Summary
+Discussion Topics
+References
+
+vii
+
+87
+87
+89
+92
+93
+94
+94
+97
+97
+99
+100
+100
+101
+101
+102
+
+8 STUCK IN A DEAD-END JOB?
+WHAT TO DO TO BREAK OUT
+
+9 MY CAREER HAS PLATEAU, NOW WHAT?
+Summary
+Assignments and Discussion Topics
+References
+
+103
+107
+109
+109
+109
+
+Copyright © 2010. John Wiley & Sons, Incorporated. All rights reserved.
+
+10 HOW NEW GRADUATES CAN SUCCESSFULLY
+TRANSITION INTO INDUSTRY
+How the Rules of the Game Change in Industry
+What to Do Your First Years in Industry To Get Ahead Quicker
+Summary
+Assignments and Discussion Topics
+References
+
+111
+111
+114
+117
+117
+117
+
+11 PHASES OF RETIREMENT PLANNING:
+BEGINNING WITH THE YOUNG ENGINEERS
+Early Career Retirement Planning
+Mid-Career Retirement Planning
+Late Career Planning
+Best Age To Retire
+Best Time of Year To Retire
+Transitioning into Retirement
+Three Phases of Retirement
+Summary
+Assignments and Discussion Topics
+References
+
+Hoschette, J. A. (2010). The engineer's career guide. John Wiley & Sons, Incorporated.
+Created from cuhk-ebooks on 2025-01-24 05:01:11.
+
+119
+121
+122
+123
+126
+127
+128
+129
+130
+131
+131
+
+viii
+
+CONT ENT S
+
+PART 2 COMPANY STRUCTURES, ORGANIZATIONS,
+AND BARRIERS IMPACTING YOUR CAREER
+
+12 HOW COMPANY SIZE AFFECTS YOUR CAREER
+Small Company Structure and the Impact on Your Career
+Large Corporation Structures and the Impact on Your Career
+Summary
+Assignments and Discussion Topics
+
+13 THE CORPORATE LADDER: CAREERS OPEN TO YOU
+Career Paths for Engineers Within a Corporation
+Engineering Fellows’ Ladder
+Staff/Systems Engineer Ladder
+Project Engineering Ladder
+Program Manager Ladder
+Management Ladder
+Marketing or Business Development Ladder
+Career Ladders Leading To Executive Levels
+Moving Up the Ladder Means More Responsibility
+Summary
+Assignments and Discussion Topics
+
+135
+135
+139
+142
+142
+143
+143
+145
+146
+148
+149
+150
+151
+152
+152
+154
+155
+
+Copyright © 2010. John Wiley & Sons, Incorporated. All rights reserved.
+
+14 INVISIBLE COMPANY BARRIERS STOPPING YOUR
+CAREER GROWTH
+Advanced Degree Barrier
+Technical Background Barrier
+Overstafﬁng Barriers
+Department Charter Barrier
+Summary
+Assignments and Discussion Topics
+
+157
+157
+158
+159
+160
+160
+161
+
+15 GETTING AHEAD IN PRODUCT-ORIENTED
+ORGANIZATIONS
+Summary
+Assignments and Discussion Topics
+
+163
+164
+165
+
+16 GETTING AHEAD IN THE FUNCTIONAL-MATRIX
+ORGANIZATION
+Summary
+Assignments and Discussion Topics
+
+Hoschette, J. A. (2010). The engineer's career guide. John Wiley & Sons, Incorporated.
+Created from cuhk-ebooks on 2025-01-24 05:01:11.
+
+167
+169
+169
+
+ix
+
+CONTENTS
+
+PART 3 DETERMINING THE CRITERIA BY WHICH
+YOU ARE MEASURED AND WHAT
+IT TAKES TO GET BETTER PERFORMANCE
+RATINGS AS WELL AS PROMOTED
+
+17 DETERMINING HOW THE COMPANY MEASURES YOUR
+PERFORMANCE
+Formal Criteria: What Are They Comprised of?
+Understanding the Job Performance Review Process
+Handling Negative Feedback and Criticism
+Determining How Job Performance Is Measured
+in Your Company
+Understanding the Promotion Review Process and Using It
+To Your Advantage
+Lower Level Engineering Promotions
+Higher Level Engineering Promotions
+Summary
+Assignments and Discussion Topics
+
+173
+174
+174
+177
+179
+184
+186
+187
+188
+189
+
+Copyright © 2010. John Wiley & Sons, Incorporated. All rights reserved.
+
+18 DETERMINING THE INFORMAL CRITERIA
+BY WHICH YOU ARE ASSESSED
+Understanding the Dangers and Beneﬁts of the
+Informal Criteria
+Informal Criteria—How To Identify Them
+Picking the One and Only Solution
+Neatness or Appearance
+Neatness of Ofﬁce
+Verbal Versus Graphically Reporting
+Are You a Detail Person or Big Picture Person?
+Are You People-Oriented or Results-Oriented?
+Procrastinator or Planner?
+Summary
+Assignments and Discussion Topics
+
+191
+191
+192
+192
+193
+194
+195
+196
+197
+198
+201
+201
+
+19 THE LEADING REASONS ENGINEERS
+ARE NOT SUCCESSFUL
+Deﬁnition of Being Unsuccessful
+Leading Causes for Being Unsuccessful
+Inept or Poor Communication Skills
+Poor Relations with the Supervisor
+Inﬂexibility
+
+Hoschette, J. A. (2010). The engineer's career guide. John Wiley & Sons, Incorporated.
+Created from cuhk-ebooks on 2025-01-24 05:01:11.
+
+203
+203
+204
+204
+206
+208
+
+x
+
+CONT ENT S
+
+Poor or Lax Work Habits
+Too Much Independence
+Technical Incompetence
+You Don’t Know What You Don’t Know
+Bull in a China Shop
+Taking on More Than You Can Handle
+Trying To Do Too Much Too Fast
+Things Take Longer Than Planned
+Overly Optimistic Progress Scheduling
+Not Willing To Put In the Extra Effort
+Summary
+Assignments and Discussion Topics
+References
+
+209
+210
+211
+211
+212
+213
+213
+214
+215
+215
+216
+216
+216
+
+PART 4 IMPROVING YOUR PERFORMANCE ON THE JOB
+AND STANDING OUT FROM YOUR PEERS
+
+Copyright © 2010. John Wiley & Sons, Incorporated. All rights reserved.
+
+20 THE ENGINEERING PROCESS IN YOUR
+COMPANY: LEARNING THE BUSINESS
+Product Design and Development Process
+Presentations at Program Reviews: Career Accelerators
+or Breakers
+Guidelines for Better Product Development
+Knowing What to Do When it Comes Time To Build and Test
+Your Product
+Documenting and Controlling Tests are Essential
+Career Beneﬁts To Understanding How Your Company
+Does Business
+Summary
+Assignments and Discussion Topics
+
+221
+221
+231
+231
+234
+236
+238
+250
+251
+
+21 TEAM SKILLS: ESSENTIAL FOR SUCCESSFUL
+ENGINEERS
+Why Having Team Skills Is So Important To Your Career
+Suggestions on How To Be a Great Team Player
+Courteous Team Skills to Use All the Time
+Destructive Team Actions To Avoid
+Summary
+Assignments and Discussion Topics
+References
+
+Hoschette, J. A. (2010). The engineer's career guide. John Wiley & Sons, Incorporated.
+Created from cuhk-ebooks on 2025-01-24 05:01:11.
+
+253
+253
+255
+258
+259
+260
+261
+261
+
+CONTENTS
+
+22 GENERATING CAREER ADVANCING IDEAS
+Generating Career Advancing Ideas
+The Importance of Putting It in Writing
+Why Researching Your Idea Is Necessary
+Writing Up the Plan
+How To Best Present the Plan or Idea
+Making the Best Presentation You Can
+A Final Word of Caution When Selling Your Ideas
+Summary
+Assignments and Discussion Topics
+References
+
+xi
+
+263
+263
+265
+266
+269
+270
+273
+275
+275
+276
+276
+
+23 GETTING PROMOTED WHETHER YOUR PROJECT
+IS SUCCESSFUL OR UNSUCCESSFUL
+How To Determine if Your Project Is a Success or Not
+Career Actions if the Project Is Unsuccessful
+and Having Setbacks
+Actions to Beneﬁt Your Career if the Project Is a Success
+Summary
+Assignments and Discussion Topics
+
+277
+278
+279
+284
+286
+287
+
+Copyright © 2010. John Wiley & Sons, Incorporated. All rights reserved.
+
+24 HOW TO ASK FOR A RAISE:
+IT IS EASIER THAN YOU THINK, EVEN IN BAD TIMES
+Do Your Research and Build Your Case
+Preparing and Planning Your Presentation
+Set Up the Meeting
+Asking for the Raise
+Handling Rejection
+Summary
+Assignments and Discussion Topics
+References
+
+25 HOW TO GET YOUR NEXT PROMOTION
+Understanding the Reasons Management Promotes People
+The Process To Achieve Your Promotion
+What Is Really Important for Getting a Promotion
+Asking for the Promotion
+Summary
+Assignments and Discussion Topics
+References
+
+289
+289
+291
+293
+293
+294
+294
+294
+295
+297
+297
+298
+299
+301
+303
+304
+304
+
+26 PEOPLE NETWORKING: A VITAL AND INDISPENSABLE
+CAREER SKILL
+What Is People Networking and Why Is It So Crucial?
+Who Should You Network With?
+
+Hoschette, J. A. (2010). The engineer's career guide. John Wiley & Sons, Incorporated.
+Created from cuhk-ebooks on 2025-01-24 05:01:11.
+
+307
+307
+309
+
+xii
+
+CONT ENT S
+
+Six Easy Steps To Follow for Successful Networking
+Great Tips for Making Networking Easy
+Networking At Your Work Place
+How To Conduct a Networking Session for a New Job
+How To Be a Fantastic Networker
+Summary
+Assignments and Discussion Topics
+References
+
+312
+317
+319
+321
+322
+323
+323
+323
+
+27 ACCOMPLISHING MORE IN LESS TIME AND GETTING
+ORGANIZED FOR SUCCESS
+Identify and Eliminate Your Time-wasting Activities
+Great Organizing Skills and Tools To Save You Time
+Developing a Daily Routine
+Developing a Weekly Routine
+Using Lunch and After Hours for Recovery Time
+Save Time by Organizing Your Computer and Server Files
+How To Create Your Own Technical Library
+Summary
+Assignments and Discussion Topics
+References
+
+325
+326
+332
+338
+338
+341
+342
+342
+343
+344
+344
+
+28 YOUR INTERNET IMAGE: IT COULD BE SABOTAGING
+
+Copyright © 2010. John Wiley & Sons, Incorporated. All rights reserved.
+
+YOUR CAREER
+Search Yourself Personally on the Internet
+Big Brother Is Watching
+Use the Internet To Your Advantage
+Summary
+
+345
+345
+345
+348
+348
+
+29 THE IMPORTANCE OF MAINTAINING A COMPANY
+CALENDAR
+Company Calendar, How Do You Use It?
+Summary
+Assignment and Discussion Topics
+
+351
+351
+355
+356
+
+30 JOIN AN ENGINEERING SOCIETY: ENHANCE
+YOUR CAREER
+
+357
+
+PART 5 SUCCESSFULLY DEALING WITH DIFFICULT
+PEOPLE AT WORK (PEOPLE SKILLS)
+
+31 DEALING WITH A DIFFICULT BOSS
+Effective Communication is Best
+My Boss Is a Micro-Manager
+Unable To Make a Decision
+
+Hoschette, J. A. (2010). The engineer's career guide. John Wiley & Sons, Incorporated.
+Created from cuhk-ebooks on 2025-01-24 05:01:11.
+
+363
+363
+364
+365
+
+xiii
+
+CONTENTS
+
+Cannot Stay Focused
+Paralysis by Analysis
+Takes Credit for All My Work
+Know It All
+Constantly Re-prioritizing My Work
+Boss’ Way or the Highway
+My Boss Always Says the Opposite of What I Say
+The Boss Has Favorites
+The Boss Makes Decisions Without Consulting Me
+Inﬂuencing Your Boss
+Summary
+Assignments and Discussion Topics
+References
+
+367
+368
+369
+369
+370
+371
+372
+372
+374
+374
+375
+375
+376
+
+32 DIVERSITY—ENDORSE IT OR BE LEFT BEHIND
+
+377
+377
+378
+380
+
+What Is Diversity? What Are the Advantages?
+Why Endorsing Diversity Is Good for Your Career
+Reference
+
+PART 6 LOST YOUR JOB? LOOKING FOR A NEW JOB?
+STRATEGIES TO MAKE YOU SUCCESSFUL!
+
+33 TIME TO CHANGE JOBS OR STAY
+
+Copyright © 2010. John Wiley & Sons, Incorporated. All rights reserved.
+
+Indicators That It’s Time To Change Jobs
+Indicators When To Stay
+Summary
+Assignments and Discussion Topics
+References
+
+383
+383
+384
+385
+386
+386
+
+34 USING THE COMPANY’S JOB OPENING SYSTEM
+TO YOUR BENEFIT
+The Important Things You Can Learn from Reading
+the Company Job Postings
+Managing Your Present Supervisor While Interviewing
+How To Get the Most from a Job Offer
+Which Is Better—Internal or External Offers?
+What To Do if Your Supervisor Tries to Block Your Move
+Always Leave on Good Terms
+Summary
+Assignments and Discussion Topics
+
+387
+388
+389
+392
+393
+394
+395
+395
+396
+
+35 SURVIVING LAYOFFS, CORPORATE TAKEOVERS,
+MERGERS, SHUTDOWNS, AND REDUCTIONS IN
+WORK FORCE
+Understanding What Happens During Takeovers, Mergers,
+Shutdowns, and Workforce Reductions
+
+Hoschette, J. A. (2010). The engineer's career guide. John Wiley & Sons, Incorporated.
+Created from cuhk-ebooks on 2025-01-24 05:01:11.
+
+397
+397
+
+xiv
+
+CONT ENT S
+
+Are You at Risk of Losing Your Job?
+Minimizing Your Chances for Layoff
+Making Backup Plans Just in Case You Lose Your Job
+What To Do if You Decide to Leave the Company
+Laid Off, What’s Next?
+Protecting Yourself While Job Searching
+Summary
+Assignments and Discussion Topics
+References
+
+401
+404
+406
+407
+408
+411
+412
+413
+413
+
+36 UNDERSTANDING THE JOB SEARCH PROCESS
+
+415
+415
+417
+417
+418
+419
+419
+420
+420
+
+Copyright © 2010. John Wiley & Sons, Incorporated. All rights reserved.
+
+Job Search Actions Leading to Success
+Your New Job Is Finding a Job
+What Are the Odds for Finding a Job
+Easily Overcoming All the NOs and Rejection Letters
+Earn $1,000 a Day Searching for a New Job
+It’s All About Attitude
+Summary
+Assignments and Discussion Topics
+
+37 SELF-INVENTORY
+
+421
+
+38 SEARCHING AND FINDING JOBS
+
+427
+427
+427
+428
+430
+431
+431
+431
+432
+432
+433
+435
+436
+
+Networking Is Key To Finding Jobs
+Develop a 30-Second Commercial and Contact Card
+Best Places To People Network To Find Jobs
+How To Utilize Search Firms To Find Jobs
+Sending Targeted Mailings
+Answering Newspaper Ads
+Internet Searching
+Maintain a Contact Notebook
+Key Job Search Strategies You Must Follow
+Best Actions for Getting a Job
+Summary
+Assignments and Discussion Topics
+
+39 CREATING RESUMES THAT GET YOU INTERVIEWS
+General Format and Layout of a Resume
+How To Write an Impressive Resume in Less Time
+Quantify, Relate, and Sell Yourself
+Great Action Words To Include on Your Resume
+
+Hoschette, J. A. (2010). The engineer's career guide. John Wiley & Sons, Incorporated.
+Created from cuhk-ebooks on 2025-01-24 05:01:11.
+
+437
+437
+440
+442
+443
+
+CONTENTS
+
+xv
+
+Resume Mistakes To Avoid
+What the Interviewers Will Be Looking for in Your Resume
+Frequently Asked Questions About Resumes
+Summary
+Assignments and Discussion Topics
+References
+
+444
+445
+446
+447
+447
+447
+
+40 COVER LETTERS THAT WILL IMPRESS EMPLOYERS
+
+449
+449
+451
+453
+454
+454
+
+General Format and Layout of a Cover Letter
+How to Write Impressive Cover Letters
+Summary
+Assignments and Discussion Topics
+References
+
+41 WHY PORTFOLIOS ARE IMPORTANT
+FOR ENGINEERS
+What Constitutes an Excellent Engineering Portfolio?
+Strategies for Interviewing with a Portfolio To Assist
+in Getting You Hired
+Summary
+Assignments and Discussion Topics
+
+Copyright © 2010. John Wiley & Sons, Incorporated. All rights reserved.
+
+42 INTERVIEWING
+Preparing for the Interview
+Difﬁcult Questions You Will Be Asked
+Questions You Should Ask
+Controlling the Interview in Your Favor
+How to Impress All the Interviewers
+Telephone Interviews
+How Companies Decide Which Person To Hire
+Summary
+Assignments and Discussion Topics
+References
+
+455
+455
+458
+460
+460
+
+461
+461
+464
+465
+466
+467
+471
+472
+473
+474
+474
+
+43 FOLLOWING UP, GETTING AN OFFER,
+AND NEGOTIATING
+Sending Thank You Notes
+What to Do if You Hear Nothing
+Get the Offer in Writing
+How to Negotiate More Out of the Offer
+
+Hoschette, J. A. (2010). The engineer's career guide. John Wiley & Sons, Incorporated.
+Created from cuhk-ebooks on 2025-01-24 05:01:11.
+
+475
+475
+477
+477
+478
+
+xvi
+
+CONT ENT S
+
+Resignation Letters
+Leaving Your Old Job on a Good Note
+Summary
+Assignments and Discussion Topics
+References
+
+479
+480
+481
+482
+482
+
+44 RELOCATING AND STARTING THE NEW JOB: TIPS
+TO MAKE IT EASIER
+Preparing, Planning, and Making the Move
+Understanding Your Relocation Package
+Generating a Plan
+Spouse’s Career
+Tips To Make It Easier for the Kids
+Family Discussions
+Checklists
+The Information Vault
+Final Goodbyes
+Getting Settled at the Other End
+Starting the New Job
+Summary
+Assignments and Discussion Topics
+
+483
+483
+484
+485
+486
+487
+487
+487
+488
+489
+489
+490
+491
+491
+
+PART 7 FURTHER EDUCATION AND LIFELONG
+LEARNING
+
+Copyright © 2010. John Wiley & Sons, Incorporated. All rights reserved.
+
+45 HOW TO GET AN EDUCATION FROM YOUR
+COMPANY
+Why Further Education Is a Win–Win Situation
+Different Types of Continuing Education (Pros and Cons)
+Leveraging Further Education for Career Advancement
+Summary
+Assignments and Discussion Topics
+
+46 GETTING A MASTER’S DEGREE: SO WORTH IT!
+The Beneﬁts To Getting a Master’s Degree
+Types of Master’s Degrees
+Selecting a Master’s Degree Program and Starting
+Avoid the Fatal Errors
+Great Tips for Making It Easier
+Summary
+
+Hoschette, J. A. (2010). The engineer's career guide. John Wiley & Sons, Incorporated.
+Created from cuhk-ebooks on 2025-01-24 05:01:11.
+
+495
+495
+499
+502
+503
+503
+
+505
+505
+506
+508
+509
+510
+511
+
+xvii
+
+CONTENTS
+
+Assignments and Discussion Topics
+References
+
+47 LIFELONG LEARNING: GROWING OR DECAYING
+Engineering Knowledge Half-Life: How Long Before
+Your Skills Are Obsolete
+What is Lifelong Learning and Why Is It Good
+for My Career?
+Simple Things To Help Facilitate Lifelong Learning
+Summary
+References
+
+511
+511
+513
+513
+514
+515
+515
+516
+
+PART 8 FINANCIAL PLANNING
+48 BASIC FINANCIAL MANAGEMENT 101
+Protecting What You Have
+Take Control of Your Cash Flow
+Invest Wisely
+Managing Your Taxes
+Save for Retirement
+Estate Planning
+Summary
+Assignments and Discussion Topics
+References
+
+519
+520
+521
+525
+526
+526
+528
+528
+529
+529
+
+PART 9 FAST TRACK ADVANCEMENT AND
+Copyright © 2010. John Wiley & Sons, Incorporated. All rights reserved.
+
+CAREER ACCELERATORS
+
+49 GETTING ON THE FAST TRACK
+FOR ADVANCEMENT
+Select Your Supervisor
+Develop Excellent Communication and Presentation
+Skills
+Go for the Special Projects
+The Right Timing for Getting On and Off Projects
+Dress and Act the Part
+Seek Out Opportunities To Excel
+Make Your Own Luck
+How To Get a Giga-Improvement in Your Career
+Prioritize and Focus Your Career Actions
+Summary
+References
+
+Hoschette, J. A. (2010). The engineer's career guide. John Wiley & Sons, Incorporated.
+Created from cuhk-ebooks on 2025-01-24 05:01:11.
+
+533
+533
+534
+536
+536
+537
+537
+537
+538
+539
+540
+541
+
+xviii
+
+CONT ENT S
+
+PART 10 BE A CONSULTING ENGINEER
+50 WHAT IS A CONSULTING ENGINEER? IS THIS
+THE RIGHT CHOICE FOR YOU?
+What Do Consulting Engineers Do?
+What Are the Pros and Cons to Consulting?
+Do You Have the Right Skills To Be Successful?
+Professional Engineer (PE) Registration
+It’s About Technical Approach, Education, Credentials,
+and Experience
+Summary
+Assignments and Discussion Topics
+References
+
+545
+545
+546
+546
+548
+549
+550
+550
+551
+
+Copyright © 2010. John Wiley & Sons, Incorporated. All rights reserved.
+
+51 SETTING UP AND BUILDING YOUR CONSULTING
+BUSINESS
+How To Get Started
+Developing a Business Plan
+Deﬁning Your Consulting Business
+Checking Out the Competition and Learning from Others
+Successful Marketing Plans
+Setting Up an Ofﬁce
+Where To Find Jobs
+Bidding and Submitting Proposals
+Statement of Work, Speciﬁcation, and the Contact
+Completing the Work
+Getting Paid—It’s Not Always Guaranteed
+Summary
+Assignments and Discussion Topics
+References
+
+553
+553
+555
+557
+559
+559
+561
+562
+564
+566
+567
+567
+568
+569
+569
+
+Appendix A Career Planning Workbook
+Appendix B Self-Inventory Workbook
+Appendix C List of Engineering Societies
+Appendix D Notes
+
+571
+589
+595
+601
+
+Index
+
+605
+
+Hoschette, J. A. (2010). The engineer's career guide. John Wiley & Sons, Incorporated.
+Created from cuhk-ebooks on 2025-01-24 05:01:11.
+
+
